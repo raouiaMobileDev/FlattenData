@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ced4ae1-5843-458c-b447-ad43408c5375" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/databeans/ExtractCommentData.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/databeans/ExtractCommentData.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/databeans/ExtractPostInfoData.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/databeans/ExtractPostInfoData.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/databeans/ExtractProfileInfoData.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/databeans/ExtractProfileInfoData.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/com/databeans/ExtractDataSpec.scala" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2OR9tPz0qkPzBapBZfkAXSrn1Yv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="PhilCoutinho" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="flattendata [file:/C:/Users/DSO%20SERVICES/IdeaProjects/FlattenData/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="PhilCoutinho-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="310583336" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ced4ae1-5843-458c-b447-ad43408c5375" name="Default Changelist" comment="" />
+      <created>1681512741300</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681512741300</updated>
+      <workItem from="1681512747613" duration="22000" />
+    </task>
+    <servers />
+  </component>
+</project>
